@@ -1,0 +1,56 @@
+_repo: The-Swiss-Family-Robinson--A-Translation-from-the-Original-German_41659
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    birthdate: 1871
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+  translator:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W. H. G.
+    - Kingston, W.H.G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+covers:
+- cover_type: archival
+  image_path: 41659-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wyss, Johann David
+    alias: Wyss, J. D. (Johann David)
+    birthdate: 1743
+    deathdate: 1818
+    gutenberg_agent_id: '1327'
+    url: http://www.gutenberg.org/2009/agents/1327
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Johann_David_Wyss
+    - http://en.wikipedia.org/wiki/Johann_David_Wyss
+  editor:
+    agent_name: Wyss, Johann Rudolf
+    alias: Wyss, Jean Rudolph
+    birthdate: 1782
+    deathdate: 1830
+    gutenberg_agent_id: '41285'
+    url: http://www.gutenberg.org/2009/agents/41285
+description: ''
+gutenberg_issued: '2012-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PT'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Survival -- Fiction'
+- !lcsh 'Family life -- Fiction'
+title: 'The Swiss Family Robinson: A Translation from the Original German'
+url: http://www.gutenberg.org/ebooks/41659
